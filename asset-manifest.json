@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wk6RSAreact/static/css/main.4e14450b.chunk.css",
+    "main.css": "/wk6RSAreact/static/css/main.57127213.chunk.css",
     "main.js": "/wk6RSAreact/static/js/main.0a74fef5.chunk.js",
     "main.js.map": "/wk6RSAreact/static/js/main.0a74fef5.chunk.js.map",
     "runtime-main.js": "/wk6RSAreact/static/js/runtime-main.c11dea2d.js",
@@ -10,14 +10,14 @@
     "static/js/3.fdfffa07.chunk.js": "/wk6RSAreact/static/js/3.fdfffa07.chunk.js",
     "static/js/3.fdfffa07.chunk.js.map": "/wk6RSAreact/static/js/3.fdfffa07.chunk.js.map",
     "index.html": "/wk6RSAreact/index.html",
-    "static/css/main.4e14450b.chunk.css.map": "/wk6RSAreact/static/css/main.4e14450b.chunk.css.map",
+    "static/css/main.57127213.chunk.css.map": "/wk6RSAreact/static/css/main.57127213.chunk.css.map",
     "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/wk6RSAreact/static/js/2.3010f1db.chunk.js.LICENSE.txt",
     "static/media/App.css": "/wk6RSAreact/static/media/bg-intro-desktop.059183ee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c11dea2d.js",
     "static/js/2.3010f1db.chunk.js",
-    "static/css/main.4e14450b.chunk.css",
+    "static/css/main.57127213.chunk.css",
     "static/js/main.0a74fef5.chunk.js"
   ]
 }
